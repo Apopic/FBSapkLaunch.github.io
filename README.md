@@ -1,2 +1,2 @@
-# FBSapkLaunch.github.io
+# FBSapkLaunch
 FreedomBarrierStyleのAndroid版の起動用リポジトリ
