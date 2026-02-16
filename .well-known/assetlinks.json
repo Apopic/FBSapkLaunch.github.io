@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.freedombarrierstyle",
+    "sha256_cert_fingerprints":
+    ["D8:DF:5D:0F:81:FF:97:74:5A:6C:80:16:F5:8E:CF:F0:FB:89:C4:85:15:EB:AE:8B:F5:C7:85:80:E1:4B:D6:EF"]
+  }
+}]
